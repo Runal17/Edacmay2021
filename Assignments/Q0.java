@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Q0
+class Q20
 {
 	public static void main(String args[])
 	{
