@@ -8,12 +8,9 @@ class Pattern07
            {
 	          System.out.print(" ");
            }
-           for(int k=1;k<=5;k++)
+           for(int k=1;k<=i;k++)
            { 
-             if(k>i)
-	           System.out.print(" ");
-           else
-	         System.out.print(k+" ");
+           System.out.print(k+" ");
            }
              System.out.println();
           }
